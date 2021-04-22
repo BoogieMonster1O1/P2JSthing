@@ -1,0 +1,22 @@
+{
+  "name": "p2jsthing",
+  "version": "1.0.0",
+  "description": "JavaScript thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoogieMonster1O1/P2JSthing.git"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "idk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoogieMonster1O1/P2JSthing/issues"
+  },
+  "homepage": "https://github.com/BoogieMonster1O1/P2JSthing#readme"
+}
